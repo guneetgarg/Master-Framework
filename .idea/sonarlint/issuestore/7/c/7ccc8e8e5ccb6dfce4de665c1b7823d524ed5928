@@ -1,0 +1,6 @@
+
+\squid:S3400""9Remove this method and declare a constant for this value.(Ö§”Óşÿÿÿÿ8à˜²¢-
+V
+squid:S106"9Replace this use of System.out or System.err by a logger.(³ë…¨8à˜²¢-
+Xsquid:S1118":Add a private constructor to hide the implicit public one.(—Ä‘é8à˜²¢-
+[squid:S1858"="get" returns a string, there's no need to call "toString()".(ºÌØ¾8à˜²¢-

@@ -1,0 +1,9 @@
+
+[
+squid:S106q"9Replace this use of System.out or System.err by a logger.(‚é€Þûÿÿÿÿ8¬ô•­£-
+hsquid:S2259o"EA "NullPointerException" could be thrown; "current" is nullable here.(Í«ƒ”ûÿÿÿÿ8¬ô•­£-
+V
+squid:S106"9Replace this use of System.out or System.err by a logger.(Â‹Éñ8‘Ç€°£-
+hsquid:S2259{"EA "NullPointerException" could be thrown; "current" is nullable here.(„Ó¤Òúÿÿÿÿ8¬ô•­£-
+Fsquid:S1148c"#Use a logger to log this exception.(€ÉÔ…ýÿÿÿÿ8¬ô•­£-
+zsquid:S1488J"]Immediately return this expression instead of assigning it to the temporary variable "value".(ùŠ“-8¬ô•­£-

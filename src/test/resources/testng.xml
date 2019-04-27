@@ -1,0 +1,16 @@
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd" >
+<suite name="Regression Suite" parallel="tests" thread-count="4" verbose="8">
+
+
+    <parameter name="browserVersion" value="chrome"/>
+    <parameter name="appCode" value="pchcom"/>
+    <parameter name="environment" value="qa"/>
+    <parameter name="deviceType" value="desktop"/>
+    <parameter name="logLevel" value="" />
+
+    <test name="testing">
+        <classes>
+            <class name="Demo"/>
+        </classes>
+    </test>
+</suite>

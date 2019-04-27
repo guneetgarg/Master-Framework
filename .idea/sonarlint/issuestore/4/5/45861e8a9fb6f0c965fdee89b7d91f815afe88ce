@@ -1,0 +1,19 @@
+
+Msquid:S00108S")Either remove or fill this block of code.(Í«åşÿÿÿÿ8í´¯£-
+usquid:S3776"RRefactor this method to reduce its Cognitive Complexity from 25 to the 15 allowed.(å¿ÿıÿÿÿÿ8ëŠŒ°£-
+[
+squid:S1067"9Replace this use of System.out or System.err by a logger.(ğ»µùÿÿÿÿ8ëŠŒ°£-
+©%squid:RedundantThrowsDeclarationCheck"lRemove the declaration of thrown exception 'java.lang.Exception', as it cannot be thrown from method's body.(å¿ÿıÿÿÿÿ8ëŠŒ°£-
+Msquid:S1066"/Merge this if statement with the enclosing one.(ã‡é8ëŠŒ°£-
+gsquid:S4042)"IUse "java.nio.Files#delete" here for better messages on error conditions.(ô­–ó8ëŠŒ°£-
+squid:S1192"mDefine a constant instead of duplicating this literal "Unable to remove %s, please close if opened." 3 times.(ŞÜ»ïûÿÿÿÿ8ëŠŒ°£-
+tsquid:UselessImportCheck"DRemove this unused import 'org.openqa.selenium.support.PageFactory'.(çáëşÿÿÿÿ8™«°£-
+gsquid:S4042"IUse "java.nio.Files#delete" here for better messages on error conditions.(ã‡é8ëŠŒ°£-
+gsquid:S40425"IUse "java.nio.Files#delete" here for better messages on error conditions.(áº­ï8ëŠŒ°£-
+[
+squid:S106"9Replace this use of System.out or System.err by a logger.(ŞÜ»ïûÿÿÿÿ8ëŠŒ°£-
+[
+squid:S106*"9Replace this use of System.out or System.err by a logger.(™–Ãşÿÿÿÿ8ëŠŒ°£-
+jsquid:S00112"FDefine and throw a dedicated exception instead of using a generic one.(å¿ÿıÿÿÿÿ8ëŠŒ°£-
+nsquid:UselessImportCheck"CRemove this unused import 'org.openqa.selenium.WebDriverException'.(œİ‰‡8‹Ş¢¯£-
+ssquid:UselessImportCheck"CRemove this unused import 'java.util.concurrent.ConcurrentHashMap'.(ÓŠÓøúÿÿÿÿ8í´¯£-

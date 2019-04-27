@@ -1,0 +1,66 @@
+
+¥squid:S1186ê"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(†ª£Ìüÿÿÿÿ8Æšß³¢-
+jsquid:S2142º"FEither re-interrupt this method or rethrow the "InterruptedException".(øôÔ×ûÿÿÿÿ8Æšß³¢-
+Jsquid:S1172Û"&Remove these unused method parameters.(«æ¡ûÿÿÿÿ8Æšß³¢-
+¥squid:S1186ú"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(ïŞ•üÿÿÿÿÿ8Æšß³¢-
+\
+squid:S106«"9Replace this use of System.out or System.err by a logger.(ËÄ¾«şÿÿÿÿ8Æšß³¢-
+¥squid:S1186Ö"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(ãÂ§áùÿÿÿÿ8Æšß³¢-
+¤squid:S1186w"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(²›õÊøÿÿÿÿ8Æšß³¢-
+Ÿsquid:S1186â"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(ƒ×B8Æšß³¢-
+Xsquid:S3400Ä"9Remove this method and declare a constant for this value.(”·³›8Æšß³¢-
+Ssquid:S1172ã"/Remove this unused method parameter "timeUnit".(Ü ˆ‰üÿÿÿÿ8Æšß³¢-
+Jsquid:S1168ÿ"+Return an empty collection instead of null.(¥¹ï8Æšß³¢-
+¥squid:S1186Ç"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(İ²Éìûÿÿÿÿ8Æšß³¢-
+¥squid:S1186Î"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(…ˆå¹üÿÿÿÿ8Æšß³¢-
+\
+squid:S106Ÿ"9Replace this use of System.out or System.err by a logger.(µ‚è¤ıÿÿÿÿ8Æšß³¢-
+:squid:S3626º"Remove this redundant jump.(ûÁİ…8¦ù›­¤-
+V
+squid:S106ˆ"9Replace this use of System.out or System.err by a logger.(äòƒ8Æšß³¢-
+\
+squid:S106­"9Replace this use of System.out or System.err by a logger.(¦½ç«ıÿÿÿÿ8Æšß³¢-
+Psquid:S1172¿",Remove this unused method parameter "xpath".(£‚«Ôıÿÿÿÿ8Æšß³¢-
+¥squid:S1186ø"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(•‚ªÙşÿÿÿÿ8Æšß³¢-
+ squid:S1186Ò"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(§§–½8Æšß³¢-
+Ÿsquid:S1186{"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(˜¬ƒ¢8Æšß³¢-
+\
+squid:S106°"9Replace this use of System.out or System.err by a logger.(–—©Ñøÿÿÿÿ8Æšß³¢-
+jsquid:CommentedOutCodeLineˆ"<This block of commented-out lines of code should be removed.(¬—ŒÉ8¦ù›­¤-
+Xsquid:S3400À"9Remove this method and declare a constant for this value.(”·³›8Æšß³¢-
+¥squid:S1186ö"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(µ·Ç¶úÿÿÿÿ8Æšß³¢-
+ squid:S1186æ"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(¢´Õ“8Æšß³¢-
+msquid:S00100{"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(˜¬ƒ¢8Æšß³¢-
+Ÿsquid:S1186°"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(Éš®8Æšß³¢-
+Jsquid:S1168"+Return an empty collection instead of null.(¥¹ï8Æšß³¢-
+vsquid:S00117ö"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(µ·Ç¶úÿÿÿÿ8Æšß³¢-
+\
+squid:S106¸"9Replace this use of System.out or System.err by a logger.(ªÓ¼áşÿÿÿÿ8Æšß³¢-
+psquid:S00117F"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¶‘«š8¦ù›­¤-
+usquid:S3776"RRefactor this method to reduce its Cognitive Complexity from 19 to the 15 allowed.(òê¿Çùÿÿÿÿ8Æšß³¢-
+Vsquid:S1172Ã"2Remove this unused method parameter "cssSelector".(ÁœÊ”üÿÿÿÿ8Æšß³¢-
+¥squid:S1186¤"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(Ö´Áïùÿÿÿÿ8Æšß³¢-
+ squid:S1186Ş"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(şµĞÆ8Æšß³¢-
+¥squid:S1186¬"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(Ç¤ç¯ùÿÿÿÿ8Æšß³¢-
+ squid:S1186ò"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(± ë±8Æšß³¢-
+ squid:S1186Â"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(—ÑÆ8Æšß³¢-
+¥squid:S1186î"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(‡éÌüÿÿÿÿ8Æšß³¢-
+Dsquid:S1172×"&Remove these unused method parameters.(ä’ÀI8Æšß³¢-
+¥squid:S1186ô"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(Šá¬Ëûÿÿÿÿ8Æšß³¢-
+gsquid:UnusedPrivateMethod";Remove this unused private "BrowserDriverImpl" constructor.(–µÎ¨8¦ù›­¤-
+¥squid:S1186ü"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(Ş‚ÄÔıÿÿÿÿ8Æšß³¢-
+\
+squid:S106‘"9Replace this use of System.out or System.err by a logger.(ªÓ¼áşÿÿÿÿ8Æšß³¢-
+\
+squid:S106ƒ"9Replace this use of System.out or System.err by a logger.(¦½ç«ıÿÿÿÿ8Æšß³¢-
+¥squid:S1186Ë"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(‹Ìäßúÿÿÿÿ8Æšß³¢-
+Gsquid:S1148¹"#Use a logger to log this exception.(í»³ûÿÿÿÿ8¦ù›­¤-
+¥squid:S1186Ï"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(†©…Âşÿÿÿÿ8Æšß³¢-
+¥squid:S1186¨"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(•Öîçÿÿÿÿÿ8Æšß³¢-
+ squid:S1186ß"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(µ›§ğ8Æšß³¢-
+Csquid:S1172s"&Remove these unused method parameters.(í•ï$8Æšß³¢-
+Bsquid:S1148»"#Use a logger to log this exception.(ş•§Ô8Æšß³¢-
+Usquid:S1172Ó"1Remove this unused method parameter "mainWindow".(–¸Çëúÿÿÿÿ8Æšß³¢-
+¥squid:S1186¾"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(­¬õÍşÿÿÿÿ8Æšß³¢-
+Osquid:S1172„"+Remove this unused method parameter "name".(çãïÏşÿÿÿÿ8“„…Å¤-
+Wsquid:S1172 "3Remove this unused method parameter "propertyName".(ÿ¸ ¸ùÿÿÿÿ8“„…Å¤-
